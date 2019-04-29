@@ -1,0 +1,68 @@
+{ 
+	"clientes": [
+		{
+			
+			"id": 1,
+			"categoria": "Pessoa",
+			"profissão": "Professora",
+			"nome": "Maria",
+			"cpf": "135.780.452-23.",
+			"nacionalidade": "Brasileira",
+			"idade": 32,
+			"telefone": "(11)98999-9999",
+			"destaque":"true"
+			
+			
+		},
+		{
+			"id": 2,
+			"categoria": "Pessoa",
+			"profissão": "João",
+			"nome": "Engenheiro",
+			"cpf": "452.970.134-22.",
+			"nacionalidade": "Brasileiro",
+			"Idade": 35,
+			"telefone": "(11)3210-1234",
+			"destaque":true
+				
+			
+		},
+		{
+			"id": 3,
+			"categoria": "Pessoa",
+			"profissão ": "Cabelereiro",
+			"nome": "Zé",
+			"cpf": "452-786-532-33",
+			"nacionalidade": "Brasileiro",
+			"idade": 52,
+			"telefone": "(14)99999-8999",
+			"destaque":true
+			
+		},
+		{
+			"id": 4,
+			"categoria": "Pessoa",
+			"profissão": "Atendente",
+			"nome": "Ana",
+			"cpf": "532.761.135-12",
+			"nacionalidade": "Brasileira",
+			"telefone":"(11)98999-9999",
+			"idade": 20,
+			"destaque":true
+			
+				
+			
+		},
+		{
+			"id": 5,
+			"nome": "Los Amigos ",
+			"categoria": "Pizzaria",
+			"endereço": "Rua Boa Vista",
+			"telefone": "(11)2222-2222",
+			"destaque":true
+			
+			
+		}
+		
+	]
+}
